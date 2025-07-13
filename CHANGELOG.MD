@@ -13,7 +13,7 @@
 - First stable version
 
 
-### Zephyr beta versions
+## Zephyr beta versions
 
 Version       | Changes
 --------------|-------------------------------------------

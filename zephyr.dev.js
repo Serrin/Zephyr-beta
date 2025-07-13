@@ -2622,7 +2622,6 @@ const ValidateTypedArray = (O, order) =>(
 );
 
 
-
 /*
 https://262.ecma-international.org/#sec-typedarrayelementsize
 23.2.4.5 TypedArrayElementSize ( O )

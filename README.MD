@@ -43,7 +43,7 @@ DEV and MIN editions: If the `ES` global variable is used before the loading of 
 version|page link
 -------|--------
 Stable|__https://github.com/Serrin/Zephyr__
-Beta|__https://github.com/Serrin/Zephyr__
+Beta|__https://github.com/Serrin/Zephyr-beta__
 
 
 ### How to import the ESM edition
