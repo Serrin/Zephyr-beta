@@ -7,7 +7,7 @@ __Collection of the ECMAScript abstract methods as standalone Javascript functio
 
 Latest version: 1.0.1
 
-Date: 2025-07-04T17:52:37.319Z
+Date: 2025-07-14T18:49:58.592Z
 
 __Tested on these browsers:__
 
